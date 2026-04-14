@@ -65,11 +65,6 @@
 
 ---
 
-## 🐍 Contribution Activity
-
-![snake gif](https://github.com/YusufcanEsener/YusufcanEsener/blob/output/github-contribution-grid-snake.svg)
-
----
 
 ## 📫 Contact
 
